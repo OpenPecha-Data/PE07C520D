@@ -1,0 +1,190 @@
+id: PE07C520D
+initial_creation_type: input
+source_metadata:
+  title: Songs and Poems Series
+  language: it
+  description: 'A selection of spiritual songs (mgur; glu) or poems:'
+  volume:
+    dd1d2ecf57ac4c9bad45eb74fd0ca3f1:
+      title: Acrostic Song
+      parent: Acrostic
+    7a7733fd327741048d535b9580c23b19:
+      title: A Song for Travelling from Sikkim to Tibet
+      parent: Advice
+    ad1ad185c8b64bd484069b2f31fbae72:
+      title: Advice to Myself Exposing Hidden Flaws
+      parent: Advice
+    b488e1b3d2914f0a8ea21620a3694e41:
+      title: Khandro's Plea
+      parent: Advice
+    cd7015b4012641d4a3f196d725b36128:
+      title: 'The Blissful Path to Awakening: A Song on the Essence of Definitive
+        Meaning'
+      parent: Advice
+    2e884f46266a4d40b42c62466b284f87:
+      title: How to Take the Practice to Heart
+      parent: Advice
+    6c330e0d148245dfb31be3d0b79ad178:
+      title: 'The Sound of the Divine Drum: Advice at a Time of Victory'
+      parent: Advice
+    c16f85457c5f422aae63fb579ede1fb2:
+      title: Many Are the Scholars Who Travel Empty-Handed to the Realm of the Dead
+      parent: Advice
+    0ef785716dc8408cb6388718e504a5b3:
+      title: 'Divine Music: Words of Encouragement for the Authentic Path'
+      parent: Advice
+    6e7e2b153ea1438bb32bad823e854f99:
+      title: Song of the Enchanting Wildwoods
+      parent: Advice
+    72d4145c853d4d9b8d9f03e21e849814:
+      title: A Song of Amazement Inspired by Practice Experience
+      parent: Advice
+    d8af0209a24c4692a74ae16aa4b0fe4e:
+      title: 'Rain of Accomplishments: A Song that Incorporates the Four Mindfulnesses
+        from an Instruction on the View of the Middle Way'
+      parent: Advice
+    9d4772c568ac4350b10b31348d2e0850:
+      title: Types of Spiritual Song
+      parent: Classification
+    40d8adc631054fe186b30c367f39948d:
+      title: On Jetsün Drakpa Gyaltsen’s How to Take the Practice to Heart
+      parent: Commentaries
+    f3897fce3c93418498016b81d433e8c2:
+      title: A Song to Aid the Recollection of Parental Kindness and Encourage the
+        Recitation of the Maṇi Mantra
+      parent: Compassion
+    1bbc6747bc8b4df4be4b029896d8dc56:
+      title: A Song of Compassion
+      parent: Compassion
+    83259e7f27dd4bdf8c0729b79e16a4bd:
+      title: When Remembering My Mother
+      parent: Compassion
+    a6ebca1783dc413ca0350d9c3214c976:
+      title: A Lamenting Plea for Compassion
+      parent: Devotion
+    7aa08ef1b1ba47d38c4f589962d95652:
+      title: A Song Recalling the Noble Guru’s Kindness
+      parent: Devotion
+    b1731fbe72f642c4baf0a75eb58928b8:
+      title: A Song Requested by the Buddhist Monk Jamyang Yönten Gyatso
+      parent: Devotion
+    b9710a6538ae45a384262a5f49853d9f:
+      title: Lament Composed in a State of Deep Sadness
+      parent: Devotion
+    bc4a92f3cf45425eac4671f9aa10fb62:
+      title: 'Lightning Bands of Compassion: A Song of Lament for Khenchen Kunzang
+        Palden Tupten Chökyi Drakpa'
+      parent: Devotion
+    13fe93ae9b444a13a7efe3fa5f1a508c:
+      title: 'Piercing Devotion: A Lament for Lama Sakyapa'
+      parent: Devotion
+    210c6b0eee1145ce8405af753ee948a1:
+      title: 'Tremendous Piercing of the Heart: A Lament Recalling the Guru'
+      parent: Devotion
+    565a6801c8ca478ab53d4a1b857ce415:
+      title: 'The Spontaneous Sound of Uncontrived Song: A Lament Recalling the Great
+        Guru of Oḍḍiyāna'
+      parent: Devotion
+    18450f6a66e2486daca64fbfae7cd110:
+      title: The Song of the Vajra
+      parent: Dzogchen
+    706d3b9017cb447680ed667733973658:
+      title: A Song in Six Verses
+      parent: Dzogchen
+    4c4e3b778ad1441aa8e10adaab105099:
+      title: Song of Experiential Certainty
+      parent: Dzogchen
+    06c221fd582c4931b2db646c21f85cde:
+      title: Song that Arose Spontaneously at Taktse Podrang, Sikkim
+      parent: Dzogchen
+    205d11c8a98f49ceaa195f6f6570adc2:
+      title: Spontaneously Written Song of Experience
+      parent: Dzogchen
+    d1c09f3c9854418f80b8a7f09887e2c6:
+      title: A Song of Advice for Gok Zangden
+      parent: Dzogchen
+    7b7f972fddb34cc1b579be6bf41e8eef:
+      title: A Song to Introduce the Unmistaken View of the Great Perfection
+      parent: Dzogchen
+    e08556f5f2cc46c9bec08e6b9a314545:
+      title: Verses to Remove Hindrances and Sustain Realization of the Nature of
+        Mind
+      parent: Dzogchen
+    68cfd058bfb24b80aaad9eda89f85376:
+      title: In This Pure Awareness
+      parent: Dzogchen
+    6be5b139b7d4495f843d9b4ba2e15626:
+      title: 'Aho Ye: Impressions of an Insightful Experience'
+      parent: Dzogchen
+    94b0565176b4445a8704aa06573d432d:
+      title: Five-Verse Doha of Yogic Realization
+      parent: Dzogchen
+    712ea084b3d14220822b53de455f769c:
+      title: 'Mindfulness: The Mirror of the Mind'
+      parent: Dzogchen
+    3310a4232a544cebab47fde67465bc39:
+      title: Natural Great Peace
+      parent: Dzogchen
+    35fb240ca29840868594eac66805bdf3:
+      title: 'Ḍākinī’s Delight: A Song of the Feast'
+      parent: Feast Songs
+    ecfeef8f202843bba05ff36223d39c5f:
+      title: Song of the Feast (Tsok Lu)
+      parent: Feast Songs
+    3b40a79df709468cbe352711b8ef26a1:
+      title: Upon Hearing the Fluted Speech of Kunzang Dechen Tsomo, Queen Mother
+        of Sikkim
+      parent: General
+    7174356bac38418f807640c7e6d703ff:
+      title: 'Nectar of the Heart: An Experiential Song of Parting from the Four Attachments'
+      parent: General
+    6f0fc694948f48ea86e79f602c8cff1f:
+      title: A Short Song of Practice
+      parent: General
+    4669633af69144d0aba24e3b0bf40e25:
+      title: When Flowers Were Ravaged by the Frost
+      parent: Impermanence
+    ee3cfe7a01354de6b0ab6582bf1b810d:
+      title: Verses of Advice for Meditating on Impermanence
+      parent: Impermanence
+    c750036f69154402b346301e733e1960:
+      title: 'A Yogi’s Song of Happiness: The Melody that Brings Universal Auspiciousness
+        and Fulfilment'
+      parent: Joy
+    1c268d1e7a644fcb90b861458f2573d7:
+      title: Drawing Out the Quintessence of the View
+      parent: Lamdré
+    947eafeaeb854f299f902177a171b68e:
+      title: Song of Deathlessness
+      parent: Longevity
+    9596a35d5c3043ff80e5fa7e76d90399:
+      title: 'The Excellent Path of Definitive Meaning: An Unmistaken Expression of
+        the Definitive Mahāmudrā'
+      parent: Mahāmudrā
+    d3eefd0b80af47c5b43d288b4db95d1d:
+      title: 'Lightning Band of Faith: A Song to Invoke the Master’s Wisdom Mind'
+      parent: Prayer
+    0eaf99486ca4468fa0bd7dacd68e9d54:
+      title: A Song of Prayer to Jamyang Loter Wangpo
+      parent: Prayer
+    a3ba8eb4708d47c5a949f065a5d0a5c3:
+      title: 'Auspicious Dance of Longevity: A Song for Touring the Sacred Sites of
+        Nepal'
+      parent: Sacred Places
+    132f193b7e8a46d382966e7e949f66fb:
+      title: Upon Arriving at Yangleshö
+      parent: Sacred Places
+    8ed004008d0b423a913d08457fb4deca:
+      title: Jangphen Namkha Dzong
+      parent: Sacred Places
+    7b9321b28a9e4571bcdc5a6476227aa2:
+      title: 'Great Stake to the Heart: A Song of Sadness'
+      parent: Sadness
+    da49c5d3aa544a3d8f75b6c52bb1f553:
+      title: Song of Prayer to Milarepa
+      parent: Sadness
+    ea181d4d2e824b0c81d63f2ac468aaeb:
+      title: Twelve and a Half Crippled Verses
+      parent: Wonder
+created_at: '2022-03-01T05:55:44.203789'
+last_modified_at: '2022-03-01T05:55:44.203793'
